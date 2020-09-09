@@ -22,11 +22,10 @@
 
 <p align = "center">
  
- <!--[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://cris-ronaldo7.github.io/)-->
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://cris-ronaldo7.github.io/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/007sauravsoni) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/007sauravsoni)
-[<img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white />](mailto:007sauravsoni@gmail.com)
-[<img src="https://komarev.com/ghpvc/?username=cris-ronaldo7" alt="cris-ronaldo7" />]
+[<img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white />]
 </p>
 
 </details>
@@ -37,6 +36,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cris-ronaldo7&show_icons=true" alt="cris-ronaldo7" /></p>
 
+<details> 
+ <summary>🤖 <b>My Coding Profiles </b>: </summary>
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/007sauravsoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="007sauravsoni" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/cris_ronaldo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cris_ronaldo" height="30" width="30" /></a>
@@ -45,3 +47,4 @@
 <a href="https://leetcode.com/cris_ronaldo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="cris_ronaldo" height="30" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/cristiano_ronaldo/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="cris_ronaldo" height="30" width="30" /></a>
 </p>
+</details>
