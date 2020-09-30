@@ -22,7 +22,7 @@
  ## My Coding Profiles
 <p align="center">
 <a href="https://www.codechef.com/users/cris_ronaldo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cris_ronaldo" height="30" width="30" /></a>
-<a href="https://https://www.hackerrank.com/cris_ronaldo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="cris_ronaldo" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/cris_ronaldo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="cris_ronaldo" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/cris_ronaldo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="cris_ronaldo" height="30" width="30" /></a>
 </p>
 
